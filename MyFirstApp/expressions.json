@@ -1,0 +1,261 @@
+{
+  "data" : [
+    {
+      "text" : "Good evening",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"Greeting\""
+        }
+      ]
+    },
+    {
+      "text" : "Good night",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"Greeting\""
+        }
+      ]
+    },
+    {
+      "text" : "Hello",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"Greeting\""
+        }
+      ]
+    },
+    {
+      "text" : "Hi dude",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"Greeting\""
+        }
+      ]
+    },
+    {
+      "text" : "Hi, how are you?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"Greeting\""
+        },
+        {
+          "entity" : "person",
+          "value" : "\"you\""
+        },
+        {
+          "entity" : "question",
+          "value" : "\"how\""
+        }
+      ]
+    },
+    {
+      "text" : "What is the weather.?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"question\""
+        },
+        {
+          "entity" : "person",
+          "value" : "\"your\""
+        },
+        {
+          "entity" : "question",
+          "value" : "\"what\""
+        }
+      ]
+    },
+    {
+      "text" : "can i tell a joke.?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"favor\""
+        }
+      ]
+    },
+    {
+      "text" : "can you marry me.?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"Relationship\""
+        }
+      ]
+    },
+    {
+      "text" : "hello",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"greeting\""
+        }
+      ]
+    },
+    {
+      "text" : "hi",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"Greeting\""
+        }
+      ]
+    },
+    {
+      "text" : "hi Good morning.",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"Greeting\""
+        }
+      ]
+    },
+    {
+      "text" : "how is your day?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"question\""
+        },
+        {
+          "entity" : "person",
+          "value" : "\"your\""
+        },
+        {
+          "entity" : "question",
+          "value" : "\"how\""
+        }
+      ]
+    },
+    {
+      "text" : "i hate you",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"Relationship\""
+        }
+      ]
+    },
+    {
+      "text" : "i have a meeting,can you remind me",
+      "entities" : [
+        {
+          "entity" : "event",
+          "value" : "\"meeting\""
+        },
+        {
+          "entity" : "intent",
+          "value" : "\"Remainder\""
+        }
+      ]
+    },
+    {
+      "text" : "love you",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"Relationship\""
+        }
+      ]
+    },
+    {
+      "text" : "what can you do for me?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"question\""
+        },
+        {
+          "entity" : "person",
+          "value" : "\"me\""
+        },
+        {
+          "entity" : "question",
+          "value" : "\"what\""
+        }
+      ]
+    },
+    {
+      "text" : "what is the date?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"question\""
+        },
+        {
+          "entity" : "person",
+          "value" : "\"your\""
+        },
+        {
+          "entity" : "question",
+          "value" : "\"what\""
+        }
+      ]
+    },
+    {
+      "text" : "what is the time?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"question\""
+        }
+      ]
+    },
+    {
+      "text" : "what is your name?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"question\""
+        },
+        {
+          "entity" : "person",
+          "value" : "\"your\""
+        },
+        {
+          "entity" : "question",
+          "value" : "\"what\""
+        }
+      ]
+    },
+    {
+      "text" : "what will you do for me?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"question\""
+        },
+        {
+          "entity" : "person",
+          "value" : "\"me\""
+        },
+        {
+          "entity" : "question",
+          "value" : "\"what\""
+        }
+      ]
+    },
+    {
+      "text" : "why are you so sad.?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"question\""
+        },
+        {
+          "entity" : "person",
+          "value" : "\"you\""
+        },
+        {
+          "entity" : "question",
+          "value" : "\"why\""
+        }
+      ]
+    }
+  ]
+}

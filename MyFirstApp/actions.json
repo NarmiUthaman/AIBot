@@ -1,0 +1,30 @@
+{
+  "data" : [
+    {
+      "id" : "template-hi",
+      "type" : "template",
+      "template" : "hi",
+      "quickreplies" : [
+        "hello"
+      ]
+    },
+    {
+      "id" : "template-how are you",
+      "type" : "template",
+      "template" : "how are you",
+      "quickreplies" : [
+        "i am awesome"
+      ]
+    },
+    {
+      "id" : "template-how can i help",
+      "type" : "template",
+      "template" : "how can i help"
+    },
+    {
+      "id" : "template-how can i help you",
+      "type" : "template",
+      "template" : "how can i help you"
+    }
+  ]
+}

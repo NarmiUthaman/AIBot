@@ -1,0 +1,26 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords",
+      "trait"
+    ],
+    "name" : "question",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "question",
+    "values" : [
+      {
+        "value" : "how"
+      },
+      {
+        "value" : "what"
+      },
+      {
+        "value" : "why"
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

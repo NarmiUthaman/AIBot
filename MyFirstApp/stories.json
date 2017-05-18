@@ -1,0 +1,33 @@
+{
+  "data" : [
+    {
+      "name" : "",
+      "turns" : [
+        {
+          "user" : "hi",
+          "entities" : [
+            {
+              "entity" : "intent",
+              "value" : "\"Greeting\""
+            }
+          ],
+          "operations" : [
+            {
+              "action" : "template-hi"
+            }
+          ]
+        },
+        {
+          "user" : "hello",
+          "entities" : [
+            {
+              "entity" : "intent",
+              "value" : "\"greeting\""
+            }
+          ],
+          "operations" : [ ]
+        }
+      ]
+    }
+  ]
+}

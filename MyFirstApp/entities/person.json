@@ -1,0 +1,31 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "free-text",
+      "keywords",
+      "keywords",
+      "trait"
+    ],
+    "name" : "person",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "person",
+    "values" : [
+      {
+        "value" : "me"
+      },
+      {
+        "value" : "name"
+      },
+      {
+        "value" : "you"
+      },
+      {
+        "value" : "your"
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data" : {
+    "lookups" : [
+      "trait"
+    ],
+    "name" : "event",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "event",
+    "values" : [
+      {
+        "value" : "meeting"
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}
